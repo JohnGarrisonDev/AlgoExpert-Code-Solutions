@@ -1,4 +1,5 @@
-/*Validate Sequence
+/*
+Validate Sequence
 https://www.algoexpert.io/questions/Validate%20Subsequence
 */
 //Solution
